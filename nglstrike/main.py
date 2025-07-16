@@ -45,7 +45,7 @@ for arg in sys.argv:
         sys.exit(1)      
       
 # ========== VERSION INFO ==========      
-LEGAL_NOTICE = """\      
+LEGAL_NOTICE = """      
 nglstrike 1.1.0 - Anonymous Auto-Sender for NGL      
       
 Author : Mallik Mohammed Musaddiq      
@@ -286,4 +286,4 @@ Email : mallikmusaddiq1@gmail.com
     print(f"  Finished : {end_time.strftime('%H:%M:%S')}")      
       
 if __name__ == "__main__":      
-    main())
+    main()
