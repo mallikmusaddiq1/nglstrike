@@ -46,7 +46,7 @@ for arg in sys.argv:
       
 # ========== VERSION INFO ==========      
 LEGAL_NOTICE = """      
-nglstrike 1.1.0 - Anonymous Auto-Sender for NGL      
+nglstrike 1.2.0 - Anonymous Auto-Sender for NGL      
       
 Author : Mallik Mohammed Musaddiq      
 GitHub : https://github.com/mallikmusaddiq1/nglstrike      
