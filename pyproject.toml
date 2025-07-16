@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nglstrike"
+version = "1.0.0"
+description = "Anonymous Auto-Sender for NGL"
+authors = [
+  { name="Mallik Mohammed Musaddiq", email="mallikmusaddiq1@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = [
+  "requests"
+]
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+Homepage = "https://github.com/mallikmusaddiq1/nglstrike"
+
+[project.scripts]
+nglstrike = "nglstrike.main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
