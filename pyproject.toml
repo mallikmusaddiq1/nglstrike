@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nglstrike"
-version = "1.1.0"
+version = "1.2.0"
 description = "Anonymous Auto-Sender for NGL"
 authors = [
   { name="Mallik Mohammed Musaddiq", email="mallikmusaddiq1@gmail.com" }
