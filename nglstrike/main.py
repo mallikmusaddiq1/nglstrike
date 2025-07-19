@@ -142,7 +142,7 @@ def main():
         prog="nglstrike",      
         description="""      
 nglstrike - Anonymous Auto-Sender for NGL      
-Version: 1.3.0      
+Version: 1.4.0      
       
 USAGE EXAMPLES:      
   nglstrike -u your_username -m "Stay strong!"      
