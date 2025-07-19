@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nglstrike",
-    version="1.2.0",
+    version="1.3.0",
     author="Mallik Mohammed Musaddiq",
     author_email="mallikmusaddiq1@gmail.com",
     description="Anonymous Auto-Sender for NGL",
