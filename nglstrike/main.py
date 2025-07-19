@@ -45,26 +45,37 @@ for arg in sys.argv:
         sys.exit(1)      
       
 # ========== VERSION INFO ==========      
-LEGAL_NOTICE = """      
-nglstrike 1.3.0 - Anonymous Auto-Sender for NGL      
-      
-Author : Mallik Mohammed Musaddiq      
-GitHub : https://github.com/mallikmusaddiq1/nglstrike      
-Email  : mallikmusaddiq1@gmail.com      
-      
-─────────────────────────────────────────────────────────────      
-LEGAL & ETHICAL NOTICE:      
-This tool is intended strictly for educational and personal experimentation.      
-      
-It was created to promote thoughtful, uplifting, and respectful anonymous communication.      
-Do NOT use this tool to spam, harass, or disturb anyone in any form.      
-      
-Misuse may violate NGL's Terms of Service and lead to penalties or bans.      
-You alone are responsible for how you use this tool.      
-      
-Use it wisely — and help keep digital spaces kind, safe, and human.      
-─────────────────────────────────────────────────────────────      
-"""      
+LEGAL_NOTICE = """
+nglstrike 1.4.0 - Anonymous Auto-Sender for NGL
+
+Author : Mallik Mohammed Musaddiq
+GitHub : https://github.com/mallikmusaddiq1/nglstrike
+Email  : mallikmusaddiq1@gmail.com
+
+─────────────────────────────────────────────────────────────
+LEGAL & ETHICAL NOTICE:
+
+This tool is intended strictly for educational and personal experimentation.
+It was created to empower ethical automation — not to enable manipulation or harm.
+
+✓ Allowed Use-Cases:
+- Practicing automation techniques on your own NGL profile.
+- Testing delivery behavior in a controlled environment.
+- Experimenting with message formats to improve engagement ethically.
+
+✗ Forbidden Use-Cases:
+- Spamming or flooding NGL links with repetitive or harmful content.
+- Targeting unknown users with unsolicited messages.
+- Circumventing NGL's rate limits or anti-abuse systems.
+
+Misuse may violate NGL’s Terms of Service, trigger IP bans, or lead to legal action.
+
+You alone are responsible for your actions.
+> "A tool doesn’t define the user. The intent does."
+
+Use wisely — and help keep digital spaces kind, safe, and human.
+─────────────────────────────────────────────────────────────
+"""
       
 # ========== LOAD MESSAGES ==========      
 def load_messages_from_file(file_path):      
