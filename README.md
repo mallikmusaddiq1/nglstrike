@@ -48,7 +48,7 @@ Run with Python 3:
 nglstrike.py [options]  
 ```  
 
-### Option 2: Pip installation.  
+### Option 2: Through pip installation.  
 
 ```bash  
 pip install nglstrike  
