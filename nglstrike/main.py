@@ -46,7 +46,7 @@ for arg in sys.argv:
       
 # ========== VERSION INFO ==========      
 LEGAL_NOTICE = """      
-nglstrike 1.2.0 - Anonymous Auto-Sender for NGL      
+nglstrike 1.3.0 - Anonymous Auto-Sender for NGL      
       
 Author : Mallik Mohammed Musaddiq      
 GitHub : https://github.com/mallikmusaddiq1/nglstrike      
@@ -131,7 +131,7 @@ def main():
         prog="nglstrike",      
         description="""      
 nglstrike - Anonymous Auto-Sender for NGL      
-Version: 1.1.0      
+Version: 1.3.0      
       
 USAGE EXAMPLES:      
   nglstrike -u your_username -m "Stay strong!"      
