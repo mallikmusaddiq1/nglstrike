@@ -1,12 +1,3 @@
-<p align="center">  
-  <img src="https://img.shields.io/pypi/v/nglstrike?color=blue&label=PyPI&logo=pypi&style=flat-square">  
-  <img src="https://img.shields.io/pypi/dm/nglstrike?color=orange&label=Downloads&logo=python&style=flat-square">  
-  <img src="https://img.shields.io/github/license/mallikmusaddiq1/nglstrike?style=flat-square&color=green">  
-  <img src="https://img.shields.io/github/stars/mallikmusaddiq1/nglstrike?style=flat-square&label=Stars&color=yellow">  
-  <img src="https://img.shields.io/github/last-commit/mallikmusaddiq1/nglstrike?style=flat-square&color=purple">  
-  <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-blue?style=flat-square">  
-</p>  
-
 # nglstrike  
 
 Anonymous Auto-Sender for NGL — because sometimes, kindness needs a little automation.
