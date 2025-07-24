@@ -2,10 +2,6 @@
 
 Anonymous Auto-Sender for NGL — because sometimes, kindness needs a little automation.
 
-## 📌 Overview  
-
-`nglstrike` is a professional-grade command-line tool that automates the process of sending anonymous messages via [ngl.link](https://ngl.link). Built for thoughtful experimentation and personal use, it supports single-message repetition or bulk message delivery from `.txt` files — with built-in delay, dry-run simulation, offensive word filtering, and message shuffling.
-
 ---
 
 <p align="center">
@@ -18,6 +14,12 @@ Anonymous Auto-Sender for NGL — because sometimes, kindness needs a little aut
   <img src="https://img.shields.io/github/languages/code-size/mallikmusaddiq1/nglstrike?style=flat-square&color=teal">
   <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-blue?style=flat-square">
 </p>
+
+---
+
+## 📌 Overview  
+
+`nglstrike` is a professional-grade command-line tool that automates the process of sending anonymous messages via [ngl.link](https://ngl.link). Built for thoughtful experimentation and personal use, it supports single-message repetition or bulk message delivery from `.txt` files — with built-in delay, dry-run simulation, offensive word filtering, and message shuffling.
 
 ---
 
