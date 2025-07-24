@@ -6,7 +6,7 @@ Anonymous Auto-Sender for NGL — because sometimes, kindness needs a little aut
 
 <p align="center">
   <img src="https://img.shields.io/pypi/v/nglstrike?color=blue&label=PyPI&logo=pypi&style=flat-square">
-  <img src="https://img.shields.io/pypi/dm/nglstrike?color=orange&label=Downloads&logo=python&style=flat-square">
+  <img src="https://static.pepy.tech/badge/nglstrike" alt="Total Downloads">
   <img src="https://img.shields.io/github/license/mallikmusaddiq1/nglstrike?style=flat-square&color=green">
   <img src="https://img.shields.io/github/stars/mallikmusaddiq1/nglstrike?style=flat-square&label=Stars&color=yellow">
   <img src="https://img.shields.io/github/last-commit/mallikmusaddiq1/nglstrike?style=flat-square&color=purple">
